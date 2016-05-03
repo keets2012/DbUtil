@@ -3,7 +3,7 @@ package com.elin4it.ssm.pojo;
 import org.springframework.stereotype.Repository;
 
 import java.util.Date;
-@Repository
+
 public class User {
     private Integer id;
 
